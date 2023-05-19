@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">iTube App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="itube">iTube</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup">SignUp</string>
+    <string name="youtube_url">YouTube URL</string>
+    <string name="add_to_playlist">Add To Playlist</string>
+    <string name="my_playlist">My Playlist</string>
+    <string name="play">Play</string>
+    <string name="https_example_com">https//:example.com</string>
+    <string name="img">img</string>
+    <string name="video_player">Video Player</string>
+    <string name="no_playlist_created_yet">No playlist created yet!</string>
+    <string name="https_youtu_be_peuxbvrexic">https://youtu.be/PeUXBvRExic</string>
+</resources>
